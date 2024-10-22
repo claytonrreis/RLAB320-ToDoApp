@@ -21,19 +21,19 @@ Reorder Tasks: Use the ⬆️ and ⬇️ buttons to move tasks up or down in the
 Clone the Repository:
 
 bash
-Copiar código
+copy code
 git clone https://github.com/claytonrreis/RLAB320-ToDoApp.git
 cd new-todo-app
 
 Install Dependencies:
 
 bash
-Copiar código
+copy code
 npm install
 Run the Application:
 
 bash
-Copiar código
+copy code
 npm start
 Open your browser and go to http://localhost:5173 to see the app in action! 🌟
 
@@ -48,7 +48,7 @@ Tasks.jsx: Component for individual task items.
 Fork the Repository: Create a copy of the repo on your GitHub account.
 Create a Feature Branch:
 bash
-Copiar código
+copy code
 git checkout -b feature/your-feature
 Make Your Changes: Implement new features or fix bugs.
 Submit a Pull Request: Share your changes with me!
